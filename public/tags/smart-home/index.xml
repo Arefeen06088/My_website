@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart Home | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/smart-home/</link>
+      <atom:link href="http://localhost:1313/tags/smart-home/index.xml" rel="self" type="application/rss+xml" />
+    <description>Smart Home</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>Smart Home</title>
+      <link>http://localhost:1313/tags/smart-home/</link>
+    </image>
+    
+    <item>
+      <title>Smart Home</title>
+      <link>http://localhost:1313/project/smarthome/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/smarthome/</guid>
+      <description>&lt;p&gt;Smart home systems can monitor in-house human behavior with little configuration effort. Can Smart Home data and AI give us insights into how our lifestyle is influenced by external factors beyond our control?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

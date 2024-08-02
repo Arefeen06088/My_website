@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent Talks | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/event/</link>
+      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 May 2024 15:00:00 -0700</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent Talks</title>
+      <link>http://localhost:1313/event/</link>
+    </image>
+    
+    <item>
+      <title>Counterfactual Explainable Recommendation</title>
+      <link>http://localhost:1313/event/counter/</link>
+      <pubDate>Tue, 28 May 2024 15:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/counter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Counterfactual Visual Explanations</title>
+      <link>http://localhost:1313/event/ace/</link>
+      <pubDate>Tue, 02 Apr 2024 15:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/ace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CounterNet: End-to-End Training of Prediction Aware Counterfactual Explanations</title>
+      <link>http://localhost:1313/event/counternet/</link>
+      <pubDate>Tue, 06 Feb 2024 15:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/counternet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Interpretable Counterfactual Explanations By Implicit Minimization of Epistemic and Aleatoric Uncertainties</title>
+      <link>http://localhost:1313/event/cfs-without-gens/</link>
+      <pubDate>Wed, 15 Nov 2023 13:50:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/cfs-without-gens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactual Explanations for Multivariate Time Series</title>
+      <link>http://localhost:1313/event/cf-for-timeseries/</link>
+      <pubDate>Thu, 05 Oct 2023 13:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/cf-for-timeseries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations</title>
+      <link>http://localhost:1313/event/counterfactual-explanations/</link>
+      <pubDate>Thu, 31 Aug 2023 13:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/counterfactual-explanations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting the future clinical events of a patient through contrastive learning</title>
+      <link>http://localhost:1313/event/simclr/</link>
+      <pubDate>Wed, 12 Jul 2023 12:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/simclr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Importance Explanations for Temporal Black-Box Models</title>
+      <link>http://localhost:1313/event/time/</link>
+      <pubDate>Wed, 14 Jun 2023 12:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy-based Logic Explanations of Neural Networks</title>
+      <link>http://localhost:1313/event/entropy-based-xai/</link>
+      <pubDate>Thu, 04 May 2023 14:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/entropy-based-xai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rep-Net: Efficient On-Device Learning via Feature Reprogramming</title>
+      <link>http://localhost:1313/event/repnet/</link>
+      <pubDate>Thu, 06 Apr 2023 14:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/repnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Generative Adversarial Networks with Limited Data</title>
+      <link>http://localhost:1313/event/ada/</link>
+      <pubDate>Thu, 23 Feb 2023 14:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/ada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Knowledge Aided Explainable Artificial Intelligence for Intrusion Detection and Response</title>
+      <link>http://localhost:1313/event/domain_knowledge-powered-xai/</link>
+      <pubDate>Wed, 01 Feb 2023 12:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/domain_knowledge-powered-xai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Experiment in Material Engineering Using Machine Learning</title>
+      <link>http://localhost:1313/event/domain_k/</link>
+      <pubDate>Wed, 21 Dec 2022 15:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/domain_k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Framework for Sequential Diet Recommendation: Integrating Linear Optimization and Clinical Domain Knowledge</title>
+      <link>http://localhost:1313/event/smart-diet-assistant/</link>
+      <pubDate>Mon, 14 Nov 2022 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/smart-diet-assistant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Interpretable Model-Agnostic Explanations</title>
+      <link>http://localhost:1313/event/lime/</link>
+      <pubDate>Wed, 19 Oct 2022 10:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/lime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Decision Boundary for DNN on High Dimensional Data</title>
+      <link>http://localhost:1313/event/characterizing-decision-boundaries-in-higher-dimensions/</link>
+      <pubDate>Wed, 07 Sep 2022 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/characterizing-decision-boundaries-in-higher-dimensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grad-CAM for Interpreting DNN Model Decisions</title>
+      <link>http://localhost:1313/event/grad-cam-for-model-decison-interpretation/</link>
+      <pubDate>Fri, 22 Jul 2022 12:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/grad-cam-for-model-decison-interpretation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting Lying Posture Classification with Transfer Learning</title>
+      <link>http://localhost:1313/event/boosting-lying-posture-classification/</link>
+      <pubDate>Fri, 10 Jun 2022 12:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/boosting-lying-posture-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizations in Sparse Coding</title>
+      <link>http://localhost:1313/event/optimizations-in-sparse-coding/</link>
+      <pubDate>Fri, 22 Apr 2022 12:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/optimizations-in-sparse-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Techniques in Semi-Supervised Learning</title>
+      <link>http://localhost:1313/event/recent_techniques_ssl/</link>
+      <pubDate>Mon, 27 Sep 2021 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/recent_techniques_ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNR- Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning</title>
+      <link>http://localhost:1313/event/snr/</link>
+      <pubDate>Mon, 16 Aug 2021 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/snr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Which Tasks Should Be Learned Together in Multi-task Learning?</title>
+      <link>http://localhost:1313/event/task_assessment/</link>
+      <pubDate>Mon, 21 Jun 2021 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/task_assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anywidth Network</title>
+      <link>http://localhost:1313/event/anywidth/</link>
+      <pubDate>Mon, 17 May 2021 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/anywidth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper Review: Attention is All You Need.</title>
+      <link>http://localhost:1313/event/paper-review-attention-is-all-you-need/</link>
+      <pubDate>Mon, 05 Apr 2021 22:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/paper-review-attention-is-all-you-need/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis</title>
+      <link>http://localhost:1313/event/transfer-learning-from-speaker-verification-to-multispeaker-text-to-speech-synthesis/</link>
+      <pubDate>Mon, 01 Mar 2021 23:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/transfer-learning-from-speaker-verification-to-multispeaker-text-to-speech-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications</title>
+      <link>http://localhost:1313/event/mobilenet/</link>
+      <pubDate>Mon, 11 Jan 2021 15:00:00 -0800</pubDate>
+      <guid>http://localhost:1313/event/mobilenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U-Net: Convolutional Networks for Biomedical Image Segmentation</title>
+      <link>http://localhost:1313/event/unet/</link>
+      <pubDate>Wed, 09 Dec 2020 09:00:00 -0800</pubDate>
+      <guid>http://localhost:1313/event/unet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social and competition stress detection with wristband physiological signals</title>
+      <link>http://localhost:1313/event/stress-detection/</link>
+      <pubDate>Wed, 09 Sep 2020 12:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/event/stress-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

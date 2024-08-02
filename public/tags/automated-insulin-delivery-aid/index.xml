@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automated Insulin Delivery (AID) | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/automated-insulin-delivery-aid/</link>
+      <atom:link href="http://localhost:1313/tags/automated-insulin-delivery-aid/index.xml" rel="self" type="application/rss+xml" />
+    <description>Automated Insulin Delivery (AID)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>Automated Insulin Delivery (AID)</title>
+      <link>http://localhost:1313/tags/automated-insulin-delivery-aid/</link>
+    </image>
+    
+    <item>
+      <title>GlyMan</title>
+      <link>http://localhost:1313/project/glyman/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/glyman/</guid>
+      <description>&lt;p&gt;With the current insulin pump technology, patients experience lots of hyperglycemic events. Can we reduce this number and also make the technology patient centric?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

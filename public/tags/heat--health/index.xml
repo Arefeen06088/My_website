@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heat &amp; Health | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/heat--health/</link>
+      <atom:link href="http://localhost:1313/tags/heat--health/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heat &amp; Health</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>Heat &amp; Health</title>
+      <link>http://localhost:1313/tags/heat--health/</link>
+    </image>
+    
+    <item>
+      <title>HydroGuard</title>
+      <link>http://localhost:1313/project/hydroguard/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/hydroguard/</guid>
+      <description>&lt;p&gt;During summer, Phoenix metropoliton experiences temperature as high as 118 F. How AI can help the people who work under the scorching Phoenix sun without proper hudration?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

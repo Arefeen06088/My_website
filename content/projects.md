@@ -5,14 +5,14 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '5rem'
+  spacing: '3rem'
 
 # Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Ongoing Projects
+      text: I enjoy making things. Here is a list of ongoing projects that I have been working recently. I will add updates on them over time.
       filters:
         folders:
           - project

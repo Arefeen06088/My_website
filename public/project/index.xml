@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>GlyMan</title>
+      <link>http://localhost:1313/project/glyman/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/glyman/</guid>
+      <description>&lt;p&gt;With the current insulin pump technology, patients experience lots of hyperglycemic events. Can we reduce this number and also make the technology patient centric?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HydroGuard</title>
+      <link>http://localhost:1313/project/hydroguard/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/hydroguard/</guid>
+      <description>&lt;p&gt;During summer, Phoenix metropoliton experiences temperature as high as 118 F. How AI can help the people who work under the scorching Phoenix sun without proper hudration?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Smart Home</title>
+      <link>http://localhost:1313/project/smarthome/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/smarthome/</guid>
+      <description>&lt;p&gt;Smart home systems can monitor in-house human behavior with little configuration effort. Can Smart Home data and AI give us insights into how our lifestyle is influenced by external factors beyond our control?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ExAct</title>
+      <link>http://localhost:1313/project/exact/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/exact/</guid>
+      <description>&lt;p&gt;Existing Counterfactual techniques may not support user preferences to keep certain features unchanged. Can we improve the performance of Counterfactual generation process while ensurinf that user preferences are reflected in the produced counterfactuals?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

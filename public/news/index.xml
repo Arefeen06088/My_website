@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/news/</link>
+      <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
+    </image>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/news/news/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/news/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;center2024center&#34;&gt;&lt;center&gt;&lt;strong&gt;2024&lt;/strong&gt;&lt;/center&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[2024-5] Shovito and Asif received 2024 CHS Student Heat and Health Research Challenge Award.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2024-1] Asif&amp;rsquo;s poster GlyCoach has won the best poster award on ASU College of Health Solutions Faculty Research Day. Congratulations!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;center2023center&#34;&gt;&lt;center&gt;&lt;strong&gt;2023&lt;/strong&gt;&lt;/center&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[2023-11] Asif received the NIH T32 Institutional Training Grant for AI in Precision Nutrition (AIPrN) Research.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2023-8] Asif received NSF Student Travel Award to attend IEEE BHI&#39;23.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2023-7] Asif&amp;rsquo;s paper titled &amp;ldquo;GlySim: Modeling and Simulating Glycemic Response for Behavioral Lifestyle Interventions&amp;rdquo; got accepted at the IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2023-7] Asif&amp;rsquo;s paper titled &amp;ldquo;Inter-Beat Interval Estimation with Tiramisu Model: A Novel Approach with Reduced Error&amp;rdquo; got accepted at the ACM Health.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2023-7] In collaboration with Mayo Clinic, EMIL has been awarded the &lt;a href=&#34;https://funding.asu.edu/articles/mayo-clinic-and-arizona-state-university-alliance-health-care-2023-collaborative-research&#34;&gt;2023 Mayo Clinic and Arizona State University Alliance for Health Care - Collaborative Research Seed Grant&lt;/a&gt; titled &amp;ldquo;Machine Learning Design to Predict and Manage Postprandial Hyperglycemia in Patients with Type 1 Diabetes&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2023-6] Asif received &lt;a href=&#34;https://graduate.asu.edu/current-students/funding-opportunities/awards-and-fellowships/graduate-college-university-grant&#34;&gt;Garduate College University Grant&lt;/a&gt; from ASU again for 2023-2024 session.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2023-4] Congratulations to Asif for passing the Biomedical Informatics PhD Comprehensive Exam (Comp).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;center2022center&#34;&gt;&lt;center&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/center&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[2022-9] Asif received NSF Student Travel Award to attend IEEE/ACM CHASE&#39;22.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2022-9] Our journal titled &amp;ldquo;Use of Machine Learning to Predict Medication Adherence in Individuals at Risk for Atherosclerotic Cardiovascular Disease&amp;rdquo; got accepted at Elsevier Smart Health.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2022-8] Our paper titled &amp;ldquo;Computational Framework for Sequential Diet Recommendation: Integrating Linear Optimization and Clinical Domain Knowledge&amp;rdquo; got accepted at International Conference on Connected Health: Applications, Systems and Engineering Technologies (IEEE/ACM CHASE 2022).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2022-7] Our paper titled &amp;ldquo;Forewarning Postprandial Hyperglycemia with Interpretations using Machine Learning&amp;rdquo; got accepted at IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN’22).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2022-7] Our paper titled &amp;ldquo;On-Device Machine Learning for Diagnosis of Parkinson&amp;rsquo;s Disease from Hand Drawn Artifacts&amp;rdquo; got accepted at IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN’22).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2022-3] Our paper titled &amp;ldquo;Boosting Lying Posture Classification with Transfer Learning&amp;rdquo; got accepted at IEEE 44th International Engineering in Medicine and Biology Conference (EMBC 2022).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[2022-3] Asif received &lt;a href=&#34;https://graduate.asu.edu/current-students/funding-opportunities/awards-and-fellowships/graduate-college-university-grant&#34;&gt;Garduate College University Grant&lt;/a&gt; from ASU for 2022-2023 session.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;center2021center&#34;&gt;&lt;center&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/center&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;[2021-08] Asif transferred to Arizona State University as aPhD student in the Biomedical Informatics program.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;center2020center&#34;&gt;&lt;center&gt;&lt;strong&gt;2020&lt;/strong&gt;&lt;/center&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;[2020-08] Asif started his PhD in Computer Science at the Washington State University. Go Cougs.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Driven Intervention | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/ai-driven-intervention/</link>
+      <atom:link href="http://localhost:1313/tags/ai-driven-intervention/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI Driven Intervention</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>AI Driven Intervention</title>
+      <link>http://localhost:1313/tags/ai-driven-intervention/</link>
+    </image>
+    
+    <item>
+      <title>GlySim: Modeling and Simulating Glycemic Response for Behavioral Lifestyle Interventions</title>
+      <link>http://localhost:1313/publication/glysim/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/glysim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forewarning Postprandial Hyperglycemia with Interpretations using Machine Learning</title>
+      <link>http://localhost:1313/publication/dietnudge/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dietnudge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

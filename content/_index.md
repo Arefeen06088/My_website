@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "2.5rem"
 
 sections:
   - block: resume-biography-3
@@ -21,27 +21,30 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color:
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: 'france.jpg'
           filters:
-            brightness: 1.0
+            brightness: 0.6
           size: cover
           position: center
-          parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+          parallax: true
+  - block: resume-experience
     design:
-      columns: '1'
+      # Default section spacing
+      spacing: 
+    content:
+      title: 'Experience'
+      subtitle: ''
+      text:
+    design:
+      css_class: dark
+      background:
+        image:
+          filename: 
+          size: cover
+          position: center
   - block: collection
     id: papers
     content:
@@ -51,42 +54,83 @@ sections:
           - publication
         featured_only: true
     design:
+      background:
+        image:
+          filename: 'montana.jpg'
+          filters:
+            brightness: 0.8
+          size: cover
+          position: center
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
-      title: Recent Publications
+      count: 3
+      title: Publications
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      view: date-title-summary
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      count: 3
+      title: Recent Talks
       filters:
         folders:
           - event
     design:
+      background:
+        image:
+          filename: 'mexico.jpg'
+          filters:
+            brightness: 0.8
+          size: cover
+          position: center
       view: article-grid
-      columns: 1
+      columns: 3
   - block: collection
     id: news
     content:
       title: Recent News
       subtitle: ''
-      text: ''
+      text: |
+        ## <span style="color: white; font-size: 21px;"><center>**2024**</center>
+        <div style="width: 80%; height: 0.5px; background: linear-gradient(to right, lightgray, white, lightgray); margin: 10px 0;"></div>
+
+        - - -
+
+        <span style="color: white; font-size: 17px; font-family: Tahoma;">\[May, 2024] <span style="color: LightSeaGreen; font-size: 17px; font-family: Tahoma;">Shovito and Asif received 2024 CHS Student Heat and Health Research Challenge Award.
+
+        - - -
+
+        <span style="color: white; font-size: 17px; font-family: Tahoma;">\[Jan, 2024] <span style="color: LightSeaGreen; font-size: 17px; font-family: Tahoma;">Asif's poster GlyCoach won the best poster award on ASU College of Health Solutions Faculty Research Day.
+
+        - - -
+
+        ## <span style="color: white; font-size: 21px;"><center>**2023**</center>
+        <div style="width: 80%; height: 0.5px; background: linear-gradient(to right, lightgray, white, lightgray); margin: 10px 0;"></div>
+
+        - - -
+
+        <span style="color: white; font-size: 17px; font-family: Tahoma;">\[Nov, 2023] <span style="color: LightSeaGreen; font-size: 17px; font-family: Tahoma;">Asif received the NIH T32 Institutional Training Grant for AI in Precision Nutrition (AIPrN) Research.
+
+        - - -
+
+        <span style="color: white; font-size: 17px; font-family: Tahoma;">\[Aug, 2023] <span style="color: LightSeaGreen; font-size: 17px; font-family: Tahoma;">Asif received NSF Student Travel Award to attend IEEE BHI'23 at Pittsburgh, PA.
+
+        - - -
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 4
       # Filter on criteria
       filters:
-        author: ""
-        category: ""
+        author: admin
+        category: "news"
         tag: ""
         exclude_featured: false
         exclude_future: false
@@ -97,29 +141,34 @@ sections:
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
+      background:
+        image:
+          filename: ''
+          filters:
+            brightness: 0.8
+          size: cover
+          position: center
       # Choose a layout view
-      view: date-title-summary
+      view: #date-title-summary
       # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
-  - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+      #spacing:
+        #padding: [5, 0, 0, 0]
+  - block: markdown
     content:
-      title: 👉 Build your own academic website like this
+      title: 'Contact'
+      autolink: true
+      subtitle: ''
       text: |-
-        This site is generated by Hugo Blox Builder - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
+        <span>&#128238;</span> aarefeen@asu.edu
 
-        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
-
-        Easily build anything with blocks - no-code required!
-        
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        <span>&#128315;</span> <a href="https://www.google.com/maps/place/6161+E+Mayo+Blvd,+Phoenix,+AZ+85054/@33.6569784,-111.9518591,17z/data=!3m1!4b1!4m6!3m5!1s0x872b76b5a5c0e105:0xa44ad24e640fc2e4!8m2!3d33.6569784!4d-111.9492842!16s%2Fg%2F11kl5s9jxk?entry=ttu" target="_blank">6161 E Mayo Blvd, Room 319, Phoenix, AZ 85054, USA</a>
     design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+      css_class: dark
+      background:
+        image:
+          filename: 'spain.jpg'
+          filters:
+            brightness: 0.8
+          size: cover
+          position: center
 ---

@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: dark
   color: emerald
 
 # SEO
@@ -33,14 +33,14 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo:
-      text: "Your Name"
+      text: "Asiful Arefeen"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} AREFEEN'
     license:
       enable: true
       allow_derivatives: false
@@ -54,6 +54,9 @@ locale:
 
 # Site features
 features:
+  avatar:
+    gravatar: false
+    shape: round
   math:
     enable: false
   privacy_pack:

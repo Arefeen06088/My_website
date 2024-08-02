@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Signal Denoising | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/signal-denoising/</link>
+      <atom:link href="http://localhost:1313/tags/signal-denoising/index.xml" rel="self" type="application/rss+xml" />
+    <description>Signal Denoising</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>Signal Denoising</title>
+      <link>http://localhost:1313/tags/signal-denoising/</link>
+    </image>
+    
+    <item>
+      <title>Inter-Beat Interval Estimation with Tiramisu Model: A Novel Approach with Reduced Error</title>
+      <link>http://localhost:1313/publication/tiramisu_ibi/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tiramisu_ibi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

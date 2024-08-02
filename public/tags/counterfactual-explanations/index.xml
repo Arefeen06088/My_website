@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Counterfactual Explanations | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/counterfactual-explanations/</link>
+      <atom:link href="http://localhost:1313/tags/counterfactual-explanations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Counterfactual Explanations</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>Counterfactual Explanations</title>
+      <link>http://localhost:1313/tags/counterfactual-explanations/</link>
+    </image>
+    
+    <item>
+      <title>ExAct</title>
+      <link>http://localhost:1313/project/exact/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/exact/</guid>
+      <description>&lt;p&gt;Existing Counterfactual techniques may not support user preferences to keep certain features unchanged. Can we improve the performance of Counterfactual generation process while ensurinf that user preferences are reflected in the produced counterfactuals?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Designing User-Centric Behavioral Interventions to Prevent Dysglycemia with Novel Counterfactual Explanations</title>
+      <link>http://localhost:1313/publication/glycoach/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/glycoach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminar | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/seminar/</link>
+      <atom:link href="http://localhost:1313/tags/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seminar</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Sep 2021 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu3b4159647b8d51e665f37f26ed292d53_8763_512x512_fill_lanczos_center_3.png</url>
+      <title>Seminar</title>
+      <link>http://localhost:1313/tags/seminar/</link>
+    </image>
+    
+    <item>
+      <title>Recent Techniques in Semi-Supervised Learning</title>
+      <link>http://localhost:1313/event/recent_techniques_ssl/</link>
+      <pubDate>Mon, 27 Sep 2021 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/recent_techniques_ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNR- Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning</title>
+      <link>http://localhost:1313/event/snr/</link>
+      <pubDate>Mon, 16 Aug 2021 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/snr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Which Tasks Should Be Learned Together in Multi-task Learning?</title>
+      <link>http://localhost:1313/event/task_assessment/</link>
+      <pubDate>Mon, 21 Jun 2021 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/task_assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anywidth Network</title>
+      <link>http://localhost:1313/event/anywidth/</link>
+      <pubDate>Mon, 17 May 2021 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/anywidth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
